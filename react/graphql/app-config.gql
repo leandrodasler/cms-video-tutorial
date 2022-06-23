@@ -1,5 +1,5 @@
 query getConfig {
-  appSettings(app: "ssesandbox04.pet-external-price", version: "0.x") {
+  appSettings(app: "ssesandbox04.cms-video-tutorial", version: "0.x") {
     message
   }
 }

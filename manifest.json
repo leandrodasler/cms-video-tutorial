@@ -44,6 +44,22 @@
       "video_3": {
         "title": "3. YouTube Video ID",
         "type": "string"
+      },
+      "description_4": {
+        "title": "4. Description",
+        "type": "string"
+      },
+      "video_4": {
+        "title": "4. YouTube Video ID",
+        "type": "string"
+      },
+      "description_5": {
+        "title": "5. Description",
+        "type": "string"
+      },
+      "video_5": {
+        "title": "5. YouTube Video ID",
+        "type": "string"
       }
     }
   },
