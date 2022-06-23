@@ -1,0 +1,57 @@
+{
+  "name": "cms-video-tutorial",
+  "vendor": "ssesandbox04",
+  "version": "0.0.0",
+  "title": "CMS Video Tutorial",
+  "description": "Provides video tutorials for admin stores.",
+  "scripts": {
+    "postreleasy": "vtex publish"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.render-runtime": "8.x",
+    "vtex.apps-graphql": "3.x"
+  },
+  "builders": {
+    "react": "3.x",
+    "admin": "0.x",
+    "messages": "1.x"
+  },
+  "settingsSchema": {
+    "title": "CMS Video Tutorial Settings",
+    "type": "object",
+    "properties": {
+      "description_1": {
+        "title": "1. Description",
+        "type": "string"
+      },
+      "video_1": {
+        "title": "1. YouTube Video ID",
+        "type": "string"
+      },
+      "description_2": {
+        "title": "2. Description",
+        "type": "string"
+      },
+      "video_2": {
+        "title": "2. YouTube Video ID",
+        "type": "string"
+      },
+      "description_3": {
+        "title": "3. Description",
+        "type": "string"
+      },
+      "video_3": {
+        "title": "3. YouTube Video ID",
+        "type": "string"
+      }
+    }
+  },
+  "billingOptions": {
+    "type": "free",
+    "availableCountries": [
+      "*"
+    ]
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

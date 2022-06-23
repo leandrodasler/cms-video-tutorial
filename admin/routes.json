@@ -1,0 +1,6 @@
+{
+  "admin.cms-video-tutorial": {
+    "component": "CMSVideoTutorial",
+    "path": "/admin/app/tutorials"
+  }
+}
