@@ -1,7 +1,7 @@
 {
   "name": "cms-video-tutorial",
   "vendor": "ssesandbox04",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "CMS Video Tutorial",
   "description": "Provides video tutorials for admin stores.",
   "scripts": {
