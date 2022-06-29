@@ -1,5 +1,6 @@
 query getConfig {
-  appSettings(app: "ssesandbox04.cms-video-tutorial", version: "0.x") {
+  appSettings(app: "ssesandbox04.cms-video-tutorial", version: "0.x")
+    @context(provider: "vtex.apps-graphql") {
     message
   }
 }

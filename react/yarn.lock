@@ -302,6 +302,10 @@ scheduler@^0.13.6:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+"ssesandbox04.cms-video-tutorial@https://tiago--ssesandbox04.myvtex.com/_v/private/typings/linked/v1/ssesandbox04.cms-video-tutorial@0.0.3+build1656458519/public/@types/ssesandbox04.cms-video-tutorial":
+  version "0.0.3"
+  resolved "https://tiago--ssesandbox04.myvtex.com/_v/private/typings/linked/v1/ssesandbox04.cms-video-tutorial@0.0.3+build1656458519/public/@types/ssesandbox04.cms-video-tutorial#3b5f4b107f43722c03d638d949d9b331cda40aac"
+
 symbol-observable@^1.0.2:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"

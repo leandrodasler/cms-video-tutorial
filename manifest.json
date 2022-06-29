@@ -13,6 +13,7 @@
     "vtex.apps-graphql": "3.x"
   },
   "builders": {
+    "node": "6.x",
     "react": "3.x",
     "admin": "0.x",
     "messages": "1.x"
